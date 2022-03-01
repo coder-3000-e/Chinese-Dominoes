@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/01/19 16:21:33.778.dfm,C:\Users\loure\Desktop\New folder\Unit1.dfm=C:\Users\loure\OneDrive\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/01/19 16:21:33.778.pas,C:\Users\loure\Desktop\New folder\Unit1.pas=C:\Users\loure\OneDrive\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/19 16:21:37.017.dproj,C:\Users\loure\Desktop\New folder\Project1.dproj=C:\Users\loure\OneDrive\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/01/19 16:40:47.297.dfm,C:\Users\loure\Desktop\New folder\DataModule.dfm=C:\Users\loure\Desktop\New folder\Unit2.dfm</Transaction>
+    <Transaction>2019/01/19 16:40:47.297.pas,C:\Users\loure\Desktop\New folder\DataModule.pas=C:\Users\loure\Desktop\New folder\Unit2.pas</Transaction>
+    <Transaction>2019/01/19 17:59:32.726.pas,C:\Users\loure\Desktop\Chinese Dominoes\ChineseDominoesScorekeeping.pas=C:\Users\loure\Desktop\Chinese Dominoes\Unit1.pas</Transaction>
+    <Transaction>2019/01/19 17:59:32.726.dfm,C:\Users\loure\Desktop\Chinese Dominoes\ChineseDominoesScorekeeping.dfm=C:\Users\loure\Desktop\Chinese Dominoes\Unit1.dfm</Transaction>
+    <Transaction>2019/01/19 18:08:07.820.dproj,C:\Users\loure\Desktop\Chinese Dominoes\ChineseDominoes.dproj=C:\Users\loure\Desktop\Chinese Dominoes\Project1.dproj</Transaction>
+    <Transaction>2019/01/20 15:42:37.575.pas,C:\Users\loure\Desktop\Chinese Dominoes\DataModule.pas=</Transaction>
+    <Transaction>2019/01/20 15:42:37.575.dfm,C:\Users\loure\Desktop\Chinese Dominoes\DataModule.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
